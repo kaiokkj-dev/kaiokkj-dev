@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Kaio Henrique
+# 👨🏾‍💻 Kaio Henrique
 
 **`Desenvolvedor em formação`**
 
