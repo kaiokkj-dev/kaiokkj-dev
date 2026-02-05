@@ -64,18 +64,17 @@ Me chamo Kaio, sou do Brasil e estou estudando programação com foco em desenvo
 ## 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=kaiokkj-dev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  <img
+    align="left"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=kaiokkj-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
   />
 
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiokkj-dev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  <img
+    align="left"
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiokkj-dev&theme=tokyonight&layout=compact&langs_count=10&cache_seconds=1800"
   />
 </p>
+
+<br/><br/><br/>
