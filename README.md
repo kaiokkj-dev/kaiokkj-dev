@@ -63,18 +63,8 @@ Me chamo Kaio, sou do Brasil e estou estudando programação com foco em desenvo
 
 ## 📊 Estatísticas
 
-<p>
-  <img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=kaiokkj-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"
-  />
+## 📊 Estatísticas
 
-  <img
-    align="left"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiokkj-dev&theme=tokyonight&layout=compact&langs_count=10&cache_seconds=1800"
-  />
-</p>
+![Kaio GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaiokkj-dev&show_icons=true&theme=tokyonight&count_private=true)
 
-<br/><br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiokkj-dev&layout=compact&theme=tokyonight)
