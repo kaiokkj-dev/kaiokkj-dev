@@ -67,3 +67,5 @@ Me chamo Kaio, sou do Brasil e estou estudando programação com foco em desenvo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiokkj-dev&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=kaiokkj-dev&theme=tokyonight)
+
