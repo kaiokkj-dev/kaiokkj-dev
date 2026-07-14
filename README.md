@@ -20,35 +20,6 @@ Focused on creating scalable back-end solutions and intuitive user experiences u
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,html,css,postgres,git,github,vscode"/>
 
 </p>
-
----
-
-## ⭐ Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/kaiokkj-dev/KKJ-Intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiokkj-dev&repo=KKJ-Intelligence&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/kaiokkj-dev/DevTrack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiokkj-dev&repo=DevTrack&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/kaiokkj-dev/KKJOpti-By-KAIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiokkj-dev&repo=KKJOpti-By-KAIO&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/kaiokkj-dev/QuestGames">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiokkj-dev&repo=QuestGames&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/kaiokkj-dev/WeatherApp">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kaiokkj-dev&repo=WeatherApp&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
-
 ---
 
 ## 📊 GitHub Stats
