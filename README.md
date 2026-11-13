@@ -2,12 +2,7 @@
 
 ### Desenvolvedor Back-end / Full-stack | Buscando estágio
 
-Estudante de Ciência da Computação (Estácio) que gosta de construir aplicações web completas, do back-end ao front-end.
-
-Meu foco é criar APIs e sistemas em tempo real com **Java, Spring Boot e Node.js**, com autenticação, banco de dados e deploy em produção.
-
-📍 Taboão da Serra, São Paulo, Brasil
-🔎 Em busca de estágio em desenvolvimento back-end ou full-stack
+Estudante de Ciência da Computação (Estácio), em São Paulo. Construo aplicações web completas com **Java, Spring Boot e Node.js**.
 
 ---
 
@@ -23,18 +18,11 @@ Meu foco é criar APIs e sistemas em tempo real com **Java, Spring Boot e Node.j
 
 | Projeto | O que é | Tecnologias | Links |
 | --- | --- | --- | --- |
-| **Duelo64** | Plataforma multiplayer de jogos de estratégia (Damas Brasileiras e Xadrez), com partidas em tempo real, ranking Elo, salas privadas e chat | Java, Spring Boot, PostgreSQL, WebSocket/STOMP, JavaScript | [Demo](https://www.duelo64.com.br) · [Código](https://github.com/kaiokkj-dev/Duelo64) |
-| **KKJ Intelligence** | Chat com IA com login (e-mail e Google), múltiplos chats e histórico por usuário | Node.js, Express, OpenAI, Supabase | [Demo](https://kkj-intelligence.vercel.app/) · [Código](https://github.com/kaiokkj-dev/KKJ-Intelligence) |
-| **NeymarAnatomy** | Site interativo com estatísticas da carreira do Neymar, mapa de gols animado, quiz e filtros | HTML, CSS, JavaScript, Express, PostgreSQL | [Demo](https://www.neymaranatomy.com) · [Código](https://github.com/kaiokkj-dev/NeymarAnatomy) |
-| **DevTrack** | Gerenciador de tarefas com autenticação de usuários e CRUD completo | Node.js, Express, EJS | [Demo](https://dev-track-blue.vercel.app/) · [Código](https://github.com/kaiokkj-dev/DevTrack) |
-| **NaRégua** | SaaS de gestão e agendamento para barbearias | Node.js, Express, Supabase, PostgreSQL | [Demo](https://usenaregua.com) · Repositório privado |
-
----
-
-## 🎓 Formação
-
-- Bacharelado em Ciência da Computação, Estácio (em andamento)
-- Bootcamp Santander 2026, AI Java Back-end
+| **Duelo64** | Jogos de estratégia multiplayer em tempo real, com ranking Elo | Java, Spring Boot, PostgreSQL, WebSocket | [Demo](https://www.duelo64.com.br) · [Código](https://github.com/kaiokkj-dev/Duelo64) |
+| **KKJ Intelligence** | Chat com IA, login com Google e histórico por usuário | Node.js, Express, OpenAI, Supabase | [Demo](https://kkj-intelligence.vercel.app/) · [Código](https://github.com/kaiokkj-dev/KKJ-Intelligence) |
+| **NeymarAnatomy** | Site interativo com estatísticas da carreira do Neymar | Express, PostgreSQL, JavaScript | [Demo](https://www.neymaranatomy.com) · [Código](https://github.com/kaiokkj-dev/NeymarAnatomy) |
+| **DevTrack** | Gerenciador de tarefas com autenticação e CRUD | Node.js, Express, EJS | [Demo](https://dev-track-blue.vercel.app/) · [Código](https://github.com/kaiokkj-dev/DevTrack) |
+| **NaRégua** | SaaS de agendamento para barbearias | Node.js, Express, Supabase | [Demo](https://usenaregua.com) · Repositório privado |
 
 ---
 
@@ -50,10 +38,4 @@ Meu foco é criar APIs e sistemas em tempo real com **Java, Spring Boot e Node.j
   <a href="mailto:kaiohenriquemalaquias@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Construindo software que resolve problemas reais.</i>
 </p>
